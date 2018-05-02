@@ -647,7 +647,7 @@
         this.loading = true;
         getData("http://172.18.5.48:8080/iheat/htc/houData/getChargeMessage.do", { //收费表格接口
           addrZoneId: this.areavalue[this.areavalue.length-1],
-          heatPeroidId: this.value,
+          heatPeroidId: this.value, 
           heatStatus:this.heatvalue,
           chargeStatus:this.chargevalue,
           queryMes:this.searchValue,
