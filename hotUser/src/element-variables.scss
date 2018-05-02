@@ -1,0 +1,42 @@
+/* 改变主题色变量 */
+$--color-primary: #ff9c00;
+
+/* 内容区 */
+.el-main {
+  padding:12px 20px !important;
+  background: #f7f8fd;
+}
+/* input长度 */
+.el-input{
+  width:180px !important;
+}
+.el-aside .el-menu-item{
+  color: white;
+}
+.el-aside .el-menu-item:hover{
+  color:black;
+  background: #f7f8fd;
+}
+.el-aside .el-menu-item.is-active{
+  color:black;
+}
+/* 左边导航栏颜色 */
+.el-menu-vertical-demo {
+  background:#e9852b !important;
+  border-right:none !important;
+}
+.el-header > div{
+  float: left;
+}
+/* 头部和脚部 */
+.el-header,
+.el-footer {
+  background-color: #e4e9ee;
+  color: #333;
+  line-height: 60px;
+}
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";

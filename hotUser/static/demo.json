@@ -1,0 +1,133 @@
+{
+  "chargeList": [{
+    "oweMoney": 1142.80,
+    "payMoney": 0.00,
+    "tapStatus": "开阀",
+    "name": "罗建平",
+    "heatStatus": "供暖",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__1401",
+    "code": "1111331",
+    "cutMoney": 0.00,
+    "sumArea": 60.15,
+    "sumMoney": 1142.80
+  }, {
+    "oweMoney": 0.10,
+    "payMoney": 0.00,
+    "tapStatus": "开阀",
+    "name": "郭艳",
+    "heatStatus": "供暖",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__3203",
+    "code": "1111435",
+    "cutMoney": 0.00,
+    "sumArea": 65.48,
+    "sumMoney": 0.10
+  }, {
+    "oweMoney": 0.00,
+    "payMoney": 1269.20,
+    "tapStatus": "开阀",
+    "name": "杨海荣",
+    "heatStatus": "供暖",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__3301",
+    "code": "1111436",
+    "cutMoney": 0.00,
+    "sumArea": 66.80,
+    "sumMoney": 1269.20
+  }, {
+    "oweMoney": 0.10,
+    "payMoney": 0.00,
+    "tapStatus": "开阀",
+    "name": "张春梅",
+    "heatStatus": "供暖",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__3403",
+    "code": "1111441",
+    "cutMoney": 0.00,
+    "sumArea": 65.48,
+    "sumMoney": 0.10
+  }, {
+    "oweMoney": 0.00,
+    "payMoney": 0.00,
+    "tapStatus": "开阀",
+    "name": "文祥",
+    "heatStatus": "供暖",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__4202",
+    "code": "1111448",
+    "cutMoney": 100.00,
+    "sumArea": 83.07,
+    "sumMoney": 100.00
+  }, {
+    "oweMoney": 1102.20,
+    "payMoney": 0.00,
+    "tapStatus": "关阀",
+    "name": "董莉",
+    "heatStatus": "空房",
+    "addr": "政府供热站_高级中学换热站_112号大院住宅_1#__1402",
+    "code": "1111332",
+    "cutMoney": 0.00,
+    "sumArea": 58.01,
+    "sumMoney": 1102.20
+  }]
+}
+{
+  "list": [
+    {
+      "date": 100,
+      "name": 1,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 2,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 3,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 4,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 5,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 6,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 7,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 8,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 9,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 10,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 11,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "date": 100,
+      "name": 12,
+      "address": "上海市普陀区金沙江路 1518 弄"
+    }
+  ]
+}
